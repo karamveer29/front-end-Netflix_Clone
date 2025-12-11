@@ -1,85 +1,93 @@
-📺 Netflix Clone – Frontend Project
+🎬 Netflix Clone – Frontend Website
 
-A fully responsive Netflix Clone built using HTML, CSS, and JavaScript.
-This project replicates the modern Netflix homepage including:
+A fully responsive Netflix homepage clone built using HTML, CSS, and JavaScript.
+This project recreates the modern Netflix India UI, including hero banners, trending sliders, language dropdowns, and section cards — all optimized for desktop and mobile.
 
-✔ Hero section with background image
-✔ Language selector dropdown
-✔ Sign-in button
-✔ Email signup form
-✔ Trending Now movie slider
-✔ Cards layout
-✔ Reasons to join section
-✔ Clean UI inspired directly by Netflix India
+🚀 Features
+🎥 Hero Section
 
-https://yourusername.github.io/front-end-Netflix_Clone/
+Background banner with dark overlay
 
-/screenshots/home.png
-| Technology                | Usage                                       |
-| ------------------------- | ------------------------------------------- |
-| **HTML5**                 | Building structure and layout               |
-| **CSS3**                  | Styling, responsiveness, Netflix UI effects |
-| **JavaScript (optional)** | Dropdown, UI interaction                    |
-| **Git / GitHub**          | Version control & repository hosting        |
-🎯 Features
+Main title + subtitles styled like Netflix
 
-✔ Real Netflix-like UI
+Email input + Get Started button
 
-✔ Fully responsive design
+Responsive text scaling
 
-✔ Trending slider section
+🌍 Language Selector
 
-✔ Netflix-style buttons and input fields
+Dropdown to switch between English / Hindi
 
-✔ Language dropdown
+Styled just like Netflix
 
-✔ "More reasons to join" card layout
+Optional JS alert or functionality
 
-✔ Clean folder structure
+🔐 Sign-In Button
 
-✔ Beginner-friendly code
+Netflix-style red button
 
-Project Structure
+Positioned inside navbar
 
-front-end-Netflix_Clone/
+🔥 Trending Now Slider
+
+Horizontal scrolling movie row
+
+Hover to scale animation
+
+Smooth Netflix-like card layout
+
+📺 Reasons to Join
+
+Four clean info cards:
+
+Enjoy on your TV
+
+Download to watch offline
+
+Watch everywhere
+
+Create profiles for kids
+
+📱 Fully Responsive Layout
+
+Hero section adjusts automatically
+
+Cards rearrange on smaller screens
+
+Navigation adapts for mobile
+
+front-end-Netflix_Clone
 │
-├── index.html
-├── style.css
-├── script.js        (optional)
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
-git clone https://github.com/yourusername/front-end-Netflix_Clone.git
+├── index.html            # Main homepage UI
+├── style.css             # All styling for the website
+├── script.js             # (Optional JS for interactions)
+└── README.md             # Project documentation
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3 (Animations, Flexbox, Grid, Responsiveness)
+
+git clone https://github.com/your-username/front-end-Netflix_Clone.git
+
 cd front-end-Netflix_Clone
-UI Components Included
+👨‍💻 How to Use
 
-🔴 Netflix Logo
+Open the site
 
-🌍 Language Selection Dropdown
+Browse the hero section
 
-🎬 Hero Background Banner
+Scroll through trending movies
 
-📩 Email Subscription Box
+View “More reasons to join” cards
 
-🔥 Trending Movies Row
+Use the email input to mimic registration UI
 
-🧒 Kids Profiles Section
+🙋 Author
 
-📱 Mobile Responsive Design
-Future Enhancements
+Karamveer Singh
+(Add your GitHub link here)
+Example:
 
-☐ Add video hover previews
-
-☐ Add login/authentication (with Firebase)
-
-☐ Add dynamic movie data using TMDB API
-
-☐ Add autoplay slider
-
-☐ Add FAQ accordion like original Netflix
-
-Contributing
-
-Contributions are welcome!
-Feel free to fork the project and submit a pull request.
+https://github.com/your-username
