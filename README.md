@@ -55,7 +55,7 @@ Hero section adjusts automatically
 Cards rearrange on smaller screens
 
 Navigation adapts for mobile
-
+🗂️ Project Structure
 front-end-Netflix_Clone
 │
 ├── index.html            # Main homepage UI
@@ -66,12 +66,12 @@ front-end-Netflix_Clone
 🛠️ Technologies Used
 
 HTML5
-
 CSS3 (Animations, Flexbox, Grid, Responsiveness)
 
-git clone https://github.com/your-username/front-end-Netflix_Clone.git
+📦 Installation & Setup
+1️⃣ Clone the repository:
+git clone https://github.com/karamveer29/front-end-Netflix_Clone.git
 
-cd front-end-Netflix_Clone
 👨‍💻 How to Use
 
 Open the site
@@ -90,4 +90,4 @@ Karamveer Singh
 (Add your GitHub link here)
 Example:
 
-https://github.com/your-username
+https://github.com/karamveer29
